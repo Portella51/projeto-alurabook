@@ -1,0 +1,12 @@
+body{
+    background-color: green;
+  }
+  html h1 {
+    color: purple;
+    font-size: medium;
+  }
+p {
+    color: rgb(226, 181, 32);
+    font-size:large;
+  }
+
