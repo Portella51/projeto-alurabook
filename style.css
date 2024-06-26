@@ -1,12 +1,6 @@
+:root { --cor--fundo: #ebecee;
+}
 body{
-    background-color: green;
+    background-color: var(--cor--fundo);
   }
-  html h1 {
-    color: purple;
-    font-size: medium;
-  }
-p {
-    color: rgb(226, 181, 32);
-    font-size:large;
-  }
-
+ 
